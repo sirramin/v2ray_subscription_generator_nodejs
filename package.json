@@ -1,5 +1,5 @@
 {
-  "name": "v2ray-sub",
+  "name": "v2ray_subscription_generator_nodejs",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
